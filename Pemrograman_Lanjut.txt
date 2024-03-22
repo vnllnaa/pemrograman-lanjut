@@ -13,3 +13,17 @@ Buah yang anda beli adalah
 3. Jeruk
 4. Anggur
 Terimakasih...
+
+
+2. Buat 1 function untuk menampilkan profile mahasiswa dengan pengiriman data memanfaatkan keyword-arguments. Ilustrasi program sebagai berikut. Warna merah adalah input text dari keyword. Warna hijau adalah tampilan yang keluar setelah memasukkan input text.
+
+Profile Mahasiswa UNJANI Yogyakarta
+Nama : Puji Winar Cahyo
+NIM : 17000040
+Prodi : Teknik Informatika
+Hobi : Coding
+
+Mahasiswa Prodi Teknik Informatika UNJANI Yogyakarta
+Dengan nama Puji Winar Cahyo
+Mempunyai NIM 17000040
+Memiliki Hobi Coding
