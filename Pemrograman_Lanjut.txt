@@ -1,0 +1,15 @@
+1. Buat 1 function untuk menampilkan daftar nama buah dengan memanfaatkan 1 parameter argument (*args) pada function, ilustrasi program sebagai berikut. Warna merah adalah input text dari keyboard. Warna hijau adalah tampilan yang keluar setelah memasukkan keseluruhan buah kedalam pemesanan.
+
+Toko Buah Koperasi UNJANI Yogayakarta
+Memasukkan banyaknya buah yang dibeli : 4
+Buah 1: Apel
+Buah 2: Semangka
+Buah 3: jeruk
+Buah 4: Anggur
+
+Buah yang anda beli adalah
+1. Apel
+2. Semangka
+3. Jeruk
+4. Anggur
+Terimakasih...
