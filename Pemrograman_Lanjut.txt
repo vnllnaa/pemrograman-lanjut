@@ -1,4 +1,6 @@
-1. Buat 1 function untuk menampilkan daftar nama buah dengan memanfaatkan 1 parameter argument (*args) pada function, ilustrasi program sebagai berikut. Warna merah adalah input text dari keyboard. Warna hijau adalah tampilan yang keluar setelah memasukkan keseluruhan buah kedalam pemesanan.
+1. Buat 1 function untuk menampilkan daftar nama buah dengan memanfaatkan 1 parameter argument (*args) pada function, ilustrasi program sebagai berikut. 
+Warna merah adalah input text dari keyboard. 
+Warna hijau adalah tampilan yang keluar setelah memasukkan keseluruhan buah kedalam pemesanan.
 
 Toko Buah Koperasi UNJANI Yogayakarta
 Memasukkan banyaknya buah yang dibeli : 4
@@ -15,7 +17,10 @@ Buah yang anda beli adalah
 Terimakasih...
 
 
-2. Buat 1 function untuk menampilkan profile mahasiswa dengan pengiriman data memanfaatkan keyword-arguments. Ilustrasi program sebagai berikut. Warna merah adalah input text dari keyword. Warna hijau adalah tampilan yang keluar setelah memasukkan input text.
+2. Buat 1 function untuk menampilkan profile mahasiswa dengan pengiriman data memanfaatkan keyword-arguments. 
+Ilustrasi program sebagai berikut. 
+Warna merah adalah input text dari keyword. 
+Warna hijau adalah tampilan yang keluar setelah memasukkan input text.
 
 Profile Mahasiswa UNJANI Yogyakarta
 Nama : Puji Winar Cahyo

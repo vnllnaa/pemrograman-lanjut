@@ -1,5 +1,5 @@
 def awal(*args):
-	print("Profile Mahasiswa UNJANI Yogyakarta")
+	print("Toko Buah Koperasi UNJANI Yogyakarta")
 	jumlah_buah= int(input("Masukan banyaknya buah yang dibeli :"))
 
 	for i in range(jumlah_buah):
